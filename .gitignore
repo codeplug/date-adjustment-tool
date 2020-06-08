@@ -28,3 +28,4 @@ atlassian-ide-plugin.xml
 
 .vscode
 output/*
+!output/.gitkeep
